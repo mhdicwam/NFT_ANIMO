@@ -3,7 +3,7 @@ import os
 import json 
 
 
-BASE_URL  = "ipfs://QmeKmTJSEmom9x9LFkM2cy5JJXBCA7DoGh6koaCyQw2vJL"
+BASE_URL  = "https://gateway.pinata.cloud/ipfs/QmeKmTJSEmom9x9LFkM2cy5JJXBCA7DoGh6koaCyQw2vJL"
 PATH = "scripts/pixel"  # relatif path cuz we are in the same directory 
 
 dir_list = os.listdir(PATH)
