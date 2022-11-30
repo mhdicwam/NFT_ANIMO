@@ -39,7 +39,8 @@ async function main() {
   //   }
   // }
 
-  await tiketEvent.mintNFT("0xEE2ec293c763b93e17eb1EBE2D8002198d1292f1", "https://gateway.pinata.cloud/ipfs/QmaK7dSjjYMJjediLUJEU7jwnCkz5gKej1nFk8cJwg4WHe/metadata_dodo.json"); // adress de mon wallet 
+
+  await tiketEvent.mintNFT("0xEE2ec293c763b93e17eb1EBE2D8002198d1292f1", "https://gateway.pinata.cloud/ipfs/QmNqXvPChnXihJYfjdeQveqJasFgHvnXYsSuPJ8DHYmgdt"); // adress de mon wallet 
   // url du metadata.json apres upload  sur pinata
 
   console.log(
